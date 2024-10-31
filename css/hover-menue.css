@@ -30,7 +30,7 @@ section::after {
     background-image: linear-gradient(#01012e, #240019);
     z-index: -1;
 }
-section .container {
+section ul li {
     text-align: center;
 }
 
